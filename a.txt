@@ -1,1 +1,2 @@
 this is line 1 of a.txt
+adding text to test how to ignore this file in git
