@@ -1,1 +1,2 @@
 modify d.txt to test if it will be ignored
+new changes to d.txt
