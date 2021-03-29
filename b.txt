@@ -1,3 +1,0 @@
-this is line 1 of b.txt
-modify b.txt
-new changes to b.txt
